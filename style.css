@@ -1,0 +1,29 @@
+/*
+Theme Name: OceanWP C1
+Template: oceanwp
+Author: Bizio Site
+Author URI: http://bizio.site/
+*/
+
+
+article.blog-entry {
+    box-shadow: 0 3px 19px #00000017;
+    padding: 15px;
+}
+
+.widget_nav_menu li:first-child {
+    border-top: none !IMPORTANT;
+}
+
+.widget_nav_menu li {
+    padding: 6px 0;
+    border-bottom: none !IMPORTANT;
+}
+
+
+/**
+ * Фикс для формы HappyForms и уведомлений
+ */
+.happyforms-message-notice p {
+     margin: 0 0 0px;
+ }
