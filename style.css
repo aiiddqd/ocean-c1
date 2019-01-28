@@ -27,3 +27,11 @@ article.blog-entry {
 .happyforms-message-notice p {
      margin: 0 0 0px;
  }
+
+/**
+ * Checkout
+ */
+ #shipping_method {
+     text-transform: none;
+     text-align: left;
+ }
